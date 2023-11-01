@@ -102,7 +102,7 @@ export default function Home() {
         </div>
         <div className="container h-96">
           <Carousel>
-            <div className="bg-black w-full h-96"></div>
+            <div className="bg-rose-900 w-full h-96"></div>
             <div className="bg-blue-950 w-full h-96"></div>
             <div className="bg-gray-800 w-full h-96"></div>
             <div className="bg-amber-900 w-full h-96"></div>
